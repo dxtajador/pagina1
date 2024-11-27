@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado Mecánico RGB",
+        "descripcion": "Teclado con switches mecánicos y retroiluminación RGB personalizable.",
+        "precio": 59.99,
+        "imagen": "teclado.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse Gamer Inalámbrico",
+        "descripcion": "Mouse ergonómico con sensor óptico de alta precisión.",
+        "precio": 39.99,
+        "imagen": "mouse.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Auriculares Gaming",
+        "descripcion": "Auriculares con sonido envolvente 7.1 y micrófono incorporado.",
+        "precio": 79.99,
+        "imagen": "auriculares.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Tarjeta Gráfica RX 580",
+        "descripcion": "GPU potente con 8GB de memoria GDDR5.",
+        "precio": 299.99,
+        "imagen": "tarjeta_grafica.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Procesador Intel i7",
+        "descripcion": "Procesador de alto rendimiento para gaming y productividad.",
+        "precio": 329.99,
+        "imagen": "procesador.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "SSD NVMe 1TB",
+        "descripcion": "Almacenamiento ultrarrápido con velocidades de hasta 3500MB/s.",
+        "precio": 149.99,
+        "imagen": "ssd.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Fuente de Poder 750W",
+        "descripcion": "Fuente con certificación 80 Plus Gold para sistemas de alto rendimiento.",
+        "precio": 109.99,
+        "imagen": "fuente_poder.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Gabinete ATX con RGB",
+        "descripcion": "Gabinete espacioso con panel lateral de vidrio templado y ventiladores RGB.",
+        "precio": 89.99,
+        "imagen": "gabinete.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Monitor 27\" 144Hz",
+        "descripcion": "Monitor Full HD con tecnología FreeSync y alta tasa de refresco.",
+        "precio": 229.99,
+        "imagen": "monitor.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Kit de Ventiladores RGB",
+        "descripcion": "Pack de 3 ventiladores RGB con control remoto para personalización de colores.",
+        "precio": 49.99,
+        "imagen": "ventiladores.jpg"
+    }
+]
